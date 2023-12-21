@@ -6,7 +6,7 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=maysa502&show_icons=true&count_private=true&hide_border=true&title_color=6B8E23&icon_color=6B8E23&text_color=DFECDF&bg_color=0d1117" alt="Mei Kuchikii github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=maysa502&show_icons=true&count_private=true&hide_border=true&title_color=6B8E23&icon_color=6B8E23&text_color=DFECDF&bg_color=0d1117" alt="Maysa Arruda github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maysa502&layout=compact&hide_border=true&title_color=6B8E23&text_color=DFECDF&bg_color=0d1117" />
 </div>
 
