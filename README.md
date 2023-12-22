@@ -10,15 +10,14 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maysa502&layout=compact&hide_border=true&title_color=FAFAFA&text_color=FAFAFA&bg_color=000000" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=maysa502&bg_color=0d1117&color=dfecdf&line=556b2f&point=193e19&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=maysa502&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <div style="display: inline_block"><br>
   <img align="center" alt="Mei-C" height="30" width="40" src="https://github.com/fallsmeii/fallsmeii/assets/149728744/cbce9637-6dd4-4545-b25d-e8c4af47288b">
   <img align="center" alt="Mei-Php" height="30" width="40" src="https://github.com/fallsmeii/fallsmeii/assets/149728744/1f61d64b-c818-4686-9778-689945a6a97d">
   
 ##
 
-<a href = "mailto:maysaarruda502@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=green" target="_blank"></a>
+<a href = "mailto:maysaarruda502@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
