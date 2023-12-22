@@ -1,13 +1,13 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FAFAFA&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=556B2F&size=35&center=true&vCenter=true&width=1000&lines=+☆+Seja+bem+vindo!!!+☆)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E6F8E0&size=35&center=true&vCenter=true&width=1000&lines=+☆+Seja+bem+vindo+☆)](https://git.io/typing-svg)
 ##
 
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=maysa502&show_icons=true&count_private=true&hide_border=true&title_color=6B8E23&icon_color=6B8E23&text_color=DFECDF&bg_color=0d1117" alt="Maysa Arruda github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maysa502&layout=compact&hide_border=true&title_color=6B8E23&text_color=DFECDF&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=maysa502&show_icons=true&count_private=true&hide_border=true&title_color=FAFAFA&icon_color=FAFAFA&text_color=FAFAFA&bg_color=000000" alt="Maysa Arruda github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maysa502&layout=compact&hide_border=true&title_color=FAFAFA&text_color=FAFAFA&bg_color=000000" />
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=maysa502&bg_color=0d1117&color=dfecdf&line=556b2f&point=193e19&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -26,4 +26,4 @@
 <br>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6B8E23&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FAFAFA&height=120&section=footer"/>
