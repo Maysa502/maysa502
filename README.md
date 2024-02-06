@@ -17,7 +17,7 @@
 
 <div align="center"> 
 <a href = "mailto:maysaarruda502@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=green" target="_blank"></a>
-<a href="https://https://www.linkedin.com/in/maysa-arruda/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=green" style="border-radius: 30px" target="_blank"></a> 
+<a href="https://https://(https://www.linkedin.com/in/maysa-arruda-2020ba2b3/)/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=green" style="border-radius: 30px" target="_blank"></a> 
  </div>
 
 ##
