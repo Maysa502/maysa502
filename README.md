@@ -12,18 +12,26 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=maysa502&bg_color=0d1117&color=fafafa&line=6b8e23&point=0c3b12&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Maysa-C" height="30" width="40" src="https://github.com/fallsmeii/fallsmeii/assets/149728744/cbce9637-6dd4-4545-b25d-e8c4af47288b">
-  <img align="center" alt="Maysa-Php" height="30" width="40" src="https://github.com/fallsmeii/fallsmeii/assets/149728744/1f61d64b-c818-4686-9778-689945a6a97d">
+
   
+
+<div align="center"> 
+<a href = "mailto:maysaarruda502@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=green" target="_blank"></a>
+<a href="https://https://www.linkedin.com/in/maysa-arruda/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=green" style="border-radius: 30px" target="_blank"></a> 
+ </div>
+
 ##
 
-<a href = "mailto:maysaarruda502@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=green" target="_blank"></a>
+### Studying in this moment:
 
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
+![C](https://img.shields.io/badge/-Lin-0D1117?style=for-the-badge&logo=c&labelColor=0D1117)&nbsp;
+![MS SQL Server](https://img.shields.io/badge/-MS%20SQL%20Server-0D1117?style=for-the-badge&logo=microsoftsqlserver&labelColor=0D1117)&nbsp;
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{fallsmeii}/count.svg" /></p> 
 <br>
 </div>
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6B8E23&height=120&section=footer"/>
